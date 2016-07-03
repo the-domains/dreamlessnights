@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[Dreamlessnights]]></title>
         <description><![CDATA[Dreamlessnights]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/dreamlessnights/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 03 Jul 2016 04:49:17 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sun, 03 Jul 2016 04:50:18 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/dreamlessnights/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/b0a7f7d0-9d3a-4b42-9778-b8258d801714.png">]]></description>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/3c4b6a02-ce61-422f-89b4-4c83bda64ac3.png" alt="... and most peoplepeople don&apos;t realise this until it&apos;s too late...">]]></description>
             <link>https://the-grid-user-content.s3-us-west-2.amazonaws.com/b0a7f7d0-9d3a-4b42-9778-b8258d801714.png</link>
             <guid isPermaLink="false">5c1f73c6-ac9f-4e24-9788-eed0b225fb3b</guid>
-            <pubDate>Sun, 03 Jul 2016 04:48:52 GMT</pubDate>
+            <pubDate>Sun, 03 Jul 2016 04:49:54 GMT</pubDate>
         </item>
     </channel>
 </rss>
